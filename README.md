@@ -1,1 +1,1 @@
-# Landmarks_Navihgation
+# Landmarks_Navigation
